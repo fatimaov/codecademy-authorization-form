@@ -1,0 +1,7 @@
+input[type="password"], .list-group {
+    max-width: 300px;
+}
+
+#container {
+    max-width: 500px;
+}
